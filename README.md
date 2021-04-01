@@ -1,6 +1,6 @@
 # cells-and-nucleus-segmentation
 # Introduction 
-L’objectif principal de ce projet  est la segmentation cellulaire pour l’analyse automatisée d’échantillons de cytologie cervicale. C’est à dire les cibles sont d’extraire les limites du cytoplasme et du noyau individuels à partir d’images de cytologie cervicale.
+L’objectif principal de ce projet  est la segmentation cellulaire pour l’analyse automatisée d’échantillons de cytologie cervicale. C’est à dire la cible est d’extraire les limites du cytoplasme et du noyau  à partir d’images de cytologie cervicale.
 # compatibilite 
 Ce code a été testé sur Windows 7 , Dépendances - python, OpenCV ,skimage 
 # Méthodes utilisées
