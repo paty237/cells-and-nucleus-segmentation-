@@ -1,0 +1,23 @@
+im= imread('image 1.png')
+contours = sobel(im)
+plt.figure()
+plt.imshow(contours )
+plt.show()
+
+im2=imread('image2.png')
+contours = sobel(im2) 
+plt.figure()
+plt.imshow(contours )
+plt.show()
+
+im3=imread('image3.png')
+contours = sobel(im3)   
+plt.figure()
+plt.imshow(contours )
+plt.show()
+
+im7=imread('image7.png')
+contours = sobel(im7)   
+plt.figure()
+plt.imshow(contours )
+plt.show()
