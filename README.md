@@ -4,10 +4,10 @@ L’objectif principal de ce projet  est la segmentation cellulaire pour l’ana
 # compatibilite 
 Ce code a été testé sur Windows 7 , Dépendances - python, OpenCV ,skimage 
 # Méthodes utilisées
-detection des contours
-calcul des gradients 
-recherche de seuil 
-Algorithme watershed transform
+_  detection des contours
+_ calcul des gradients 
+_ recherche de seuil 
+_ Algorithme watershed transform
 # Résultats obtenues 
 # pour la segmentation des noyaux 
 ![image](https://user-images.githubusercontent.com/63290119/113273256-c32e8b80-92dc-11eb-89b0-baf6a83d39e7.png)
