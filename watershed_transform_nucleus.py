@@ -1,3 +1,4 @@
+
 t =110
 mask = im<t
 mask = closing(opening(mask, disk(3)), disk(2))
